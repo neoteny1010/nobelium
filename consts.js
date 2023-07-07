@@ -1,4 +1,5 @@
 exports.FONTS_SANS = [
+  '"Pretendard"',
   '"IBM Plex Sans"',
   'ui-sans-serif',
   'system-ui',
@@ -26,6 +27,7 @@ exports.FONTS_SANS = [
   'sans-serif'
 ]
 exports.FONTS_SERIF = [
+  '"Pretendard"',
   '"Source Serif"',
   'ui-serif',
   'Georgia',
